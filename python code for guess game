@@ -1,0 +1,18 @@
+secret_number = 9 
+guess_count = 0
+guess_limit = 3
+while guess_count < guess_limit:
+guess = int(input('Guess: '))
+guess_count += 1
+if guess = secret_number:
+print('you won!')
+break                                             ##to break the while loop from again entering into it after the desired output
+else:
+print('sorry you failed!')
+
+output = Guess:1
+         Guess:2
+         Guess:3
+         you failed 
+output2 =Guess:9
+         you won
